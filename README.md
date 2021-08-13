@@ -12,3 +12,4 @@
         <img alt="GitHub followers" src="https://img.shields.io/github/followers/arethafreitas?style=flat-square">
     </a>
 </p>
+
